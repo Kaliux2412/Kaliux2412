@@ -35,7 +35,7 @@
 
 
 ### ⚛️Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django)](https://skillicons.dev)
 
 
 ### 📝Software
