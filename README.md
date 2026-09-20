@@ -6,9 +6,9 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Robotics and Digital Systems**
 
-- 💬 Ask me about **Python,Javascript, FLutter, Node.js, Html**
+- 💬 Ask me about **Python,Javascript, FLutter, Node.js, Html, C++, Git**
 
 - 📫 Reach me at **kgmoralesa24@gmail.com**
 
