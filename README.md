@@ -1,6 +1,6 @@
 <h1> Hi there! Fellow Developers<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Karla+Morales;Software+Developer;Frontend+Developer;Backend+Developer;Mobile+Developer;%40karla_moraag">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Karla+Morales;Software+Developer;IoT+Developer;Database+Developer;Mobile+Developer;%40karla_moraag">
 </p>
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
