@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Robotics and Digital Systems**
 
-- 💬 Ask me about **Python,Javascript, FLutter, Node.js, Html, C++, Git**
+- 💬 Ask me about **Python,Javascript, Flutter, Node.js, HTML, C++, Git**
 
 - 📫 Reach me at **kgmoralesa24@gmail.com**
 
